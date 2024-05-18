@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tamer</h1>
-<h3 align="center">I am a Full Stack Developer at a fintech company, where I work on both the backend and frontend. ## Technologies I Use - **Backend:** Java Spring Boot - **Frontend:** React I am passionate about software development and continuously strive to enhance my skills and knowledge in the field.</h3>
+<h3 align="center">I am a Full Stack Developer at a fintech company, where I work on both the backend and frontend. Technologies I use for backend is Java Spring Boot for frontend is ReactJS.I am passionate about software development and continuously strive to enhance my skills and knowledge in the field.</h3>
 
 - 🔭 I’m currently working on **Payment Facilitator Project**
 
