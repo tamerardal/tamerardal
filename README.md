@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tamer</h1>
 <h3 align="center">I'm currently working for a fintech company.</h3>
 
-- 🌱 I’m currently learning **SpringBoot Framework**
-
 - 📫 How to reach me **tamerardaal@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12yGAjQ3t0V_BAAp80-DhGZIj6LoR7iSN/view?usp=sharing](https://drive.google.com/file/d/12yGAjQ3t0V_BAAp80-DhGZIj6LoR7iSN/view?usp=sharing)
